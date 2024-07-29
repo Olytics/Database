@@ -1,5 +1,6 @@
 # Database
 Design and Implementation of an SQL Database
+
 The database was designed to handle various aspects of business operations, including client information, invoices, and payments. It ensures data integrity and efficient retrieval through a structured schema and optimized queries.
 
 I took the following steps to create my analysis:
